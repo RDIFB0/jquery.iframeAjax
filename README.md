@@ -1,4 +1,4 @@
 jquery.iframeAjax
 =================
 
-Perform ajax request throuh hidden iframe
+Perform ajax request through hidden iframe
